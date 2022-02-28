@@ -8,7 +8,7 @@ Created by [Joan Louji](https://joanlouji.web.app/)
 
 ``` 
 
-https://github.com/sjlouji/WhatsappClone-Flutter.git
+git clone https://github.com/sjlouji/WhatsappClone-Flutter.git
 flutter pub get
 flutter run 
 
